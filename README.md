@@ -11,3 +11,6 @@ is possible to remove the value. To predict or build the model, it may not be ne
 the dataset. To remove unwanted features a feature selection algorithm is used. The MRMR feature selection algorithm
 is used to remove extraneous attributes, minimize the building model's execution time, and increase the system's
 correctness.
+<img width="592" alt="Screenshot 2024-05-08 at 4 20 43 PM" src="https://github.com/user-attachments/assets/e45e132b-2d90-4c7b-b857-ce889af22880">
+<img width="582" alt="Screenshot 2024-05-08 at 4 21 02 PM" src="https://github.com/user-attachments/assets/f3024e50-9a15-44f8-9a92-3f7d8209e375">
+<img width="569" alt="Screenshot 2024-05-08 at 4 21 22 PM" src="https://github.com/user-attachments/assets/bd30d047-1fdf-449f-a074-6feb71b9e7c6">
